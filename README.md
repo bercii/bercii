@@ -12,7 +12,7 @@
             target="_blank"
         >
     </a>
-    <p align="right"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbercii&s=40&c=a3393b&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
+    <p align="right"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fbercii&s=20&c=a3393b&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
 </div>
 
 
