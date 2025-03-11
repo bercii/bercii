@@ -99,9 +99,9 @@ Sou apaixonado por tecnologia, autodidata e adoro jogar no meu tempo livre!
       src="https://github.r2v.ch/codewars?user=bercii&stroke=%23BB432C"
     /> 
     <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
-      height="120" 
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     /> 
 </p>
