@@ -1,4 +1,4 @@
-# Nickolas Gujev
+<h1>Nickolas Gujev</h1>
 
 <div>
     <a 
@@ -13,7 +13,12 @@
     </a>
 </div>
 
-## Bem vindo ao meu perfil GitHub
+<p align="center">
+    <a 
+        href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Bem+vindo+ao+meu+perfil+GitHub" 
+        alt="Typing SVG" />
+    </a>
 
 Olá, me chamo Nickolas Gujev, mas podem me chamar de berci!
 <br>
