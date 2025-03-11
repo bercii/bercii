@@ -1,7 +1,7 @@
 # Olá, me chamo nickolas Gujev, mais conhecido como "berci" ! 
 ## Bem vindo ao meu perfil GitHub 
 <div>
- <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="https://www.linkedin.com/in/nickolasgujev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <!--
 **bercii/bercii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
