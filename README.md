@@ -86,7 +86,7 @@ Sou apaixonado por tecnologia, autodidata e adoro jogar no meu tempo livre!
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="120" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=bercii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -94,7 +94,7 @@ Sou apaixonado por tecnologia, autodidata e adoro jogar no meu tempo livre!
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="120" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
