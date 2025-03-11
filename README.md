@@ -81,6 +81,7 @@ Sou apaixonado por tecnologia, autodidata e adoro jogar no meu tempo livre!
 />
 
 <br>
+<br>
 
 <h3>📊 Estatísticas</h3>
 
