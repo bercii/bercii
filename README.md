@@ -3,7 +3,7 @@
  <a href = "mailto:nkgujev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-# Olá, me chamo Nickolas Gujev ou talvez mais por "berci" ! 
+# Olá, me chamo Nickolas Gujev ou apenas "berci" ! 
 ## Bem vindo ao meu perfil GitHub 
 
 <!--
