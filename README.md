@@ -101,7 +101,7 @@ Sou apaixonado por tecnologia, autodidata e adoro jogar no meu tempo livre!
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="195"
+      height="193"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     /> 
 </p>
