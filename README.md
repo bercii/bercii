@@ -88,20 +88,20 @@ Sou apaixonado por tecnologia, autodidata e adoro jogar no meu tempo livre!
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="120" 
+      height="125" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=bercii&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
     <img 
       align="left" 
       alt="Codewars Stats" 
-      height="120"  
+      height="125"  
       src="https://github.r2v.ch/codewars?user=bercii&stroke=%23BB432C"
     /> 
     <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180"
+      height="190"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bercii&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     /> 
 </p>
