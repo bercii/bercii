@@ -90,7 +90,7 @@ Sou apaixonado por tecnologia, autodidata e adoro jogar no meu tempo livre!
     title="Photoshop"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
 
 <br>
