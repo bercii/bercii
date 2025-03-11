@@ -16,7 +16,9 @@
 ## Bem vindo ao meu perfil GitHub
 
 Olá, me chamo Nickolas Gujev, mas podem me chamar de berci!
+<br>
 Sou formado em ADS, especializado em Banco de Dados, Direito Digital e Compliance na Gestão pública, também possuo MBA em Análise de Dados com Bi e Big Data.
+<br>
 Sou apaixonado por tecnologia, autodidata e adoro jogar no meu tempo livre!
 
 <h3>Linguagens e Tecnologias</h3>
